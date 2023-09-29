@@ -60,7 +60,7 @@ async def ping_fallen(_, message: Message):
          reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("☆ ʙʀᴀɴᴅᴇᴅ ꜱᴜᴘᴘᴏʀᴛ 🥀", url=config.SUPPORT_CHAT),
+                    InlineKeyboardButton("☆ ᴀʟᴏɴᴇ 🥀", url=config.SUPPORT_CHAT),
                     InlineKeyboardButton(
                         "☆ ꜱᴏᴜʀᴄᴇ 🥀",
                         url="https://github.com/WCGKING/BRANDED-KING-MUSIC1",
