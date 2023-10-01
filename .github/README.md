@@ -1,11 +1,11 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗞𝗜𝗡𝗚 𝗠𝗨𝗦𝗜𝗖 𝟭 」──
+    ──「 ALONE HAPPY MUSIC 」──
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/3c01d6c523a5c65e5ea71.jpg">
+  <img src="https://te.legra.ph/file/bfd89605046c8eb374004.jpg">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴋʜᴜꜱʜɪ ✘ ᴍᴜꜱɪᴄ](https://t.me/KHUSHI_MUSIC76_BOT)**_
@@ -23,7 +23,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴋʜᴜꜱʜɪ ✘
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://te.legra.ph/file/ebf34649780915d5951fe.jpg">
+  <img src="https://te.legra.ph/file/ed6b22a4cc0b0bdb9fe71.jpg">
 </p>
 
 <p align="center">
