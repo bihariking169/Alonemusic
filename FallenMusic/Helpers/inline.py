@@ -48,7 +48,7 @@ buttons = InlineKeyboardMarkup(
             InlineKeyboardButton(text="☆ ᴇᴀᴅ  🥀", callback_data="end_cb"), 
         ],  
         [    
-            InlineKeyboardButton(text="𝐁𝐎𝐋𝐓🥀", user_id=config.OWNER_ID),
+            InlineKeyboardButton(text="𝐋น¢ifēr𝆺꯭𝅥🥀", user_id=config.OWNER_ID),
             InlineKeyboardButton(text="☆ ꜱᴜᴘᴘᴏʀᴛ​ 🥀", url=config.SUPPORT_CHAT),
         ], 
     ]   
