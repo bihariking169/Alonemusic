@@ -48,7 +48,8 @@ buttons = InlineKeyboardMarkup(
             InlineKeyboardButton(text="☆ ᴇᴀᴅ  🥀", callback_data="end_cb"), 
         ],  
         [    
-            InlineKeyboardButton(text="𝐋น¢ifēr𝆺꯭𝅥🥀", user_id=config.OWNER_ID),
+            InlineKeyboardButton(text="🥀𝐎𝐖𝐍𝐄𝐑🥀", user_id=config.OWNER_ID),
+            InlineKeyboardButton(text="🥀 𝐋𝐈𝐅𝐄𝐋𝐈𝐍𝐄🥀", user_id=config.6503060428),
             InlineKeyboardButton(text="☆ ꜱᴜᴘᴘᴏʀᴛ​ 🥀", url=config.SUPPORT_CHAT),
         ], 
     ]   
@@ -64,7 +65,7 @@ pm_buttons = [
     ],
     [InlineKeyboardButton(text="🌹 ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ 🦋", callback_data="fallen_help")],
     [
-        InlineKeyboardButton(text="🌹 ᴄʜᴀɴɴᴇʟ​ 🦋", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="🥀𝐎𝐖𝐍𝐄𝐑🥀 🦋", url=config.SUPPORT_CHANNEL),
         InlineKeyboardButton(text=" 🌹 ​ꜱᴜᴘᴘᴏʀᴛ 🦋", url=config.SUPPORT_CHAT),
     ],
     [
